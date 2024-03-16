@@ -1,2 +1,2 @@
-# front-end
-this repository is for front-end and files serving service
+# web-app
+this repository is for web-app and files serving service
